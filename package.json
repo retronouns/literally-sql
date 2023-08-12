@@ -1,0 +1,23 @@
+{
+  "name": "literally-sql",
+  "version": "0.1.0",
+  "description": "Converts a const string literal containing SQL into TypeScript types.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/retronouns/literally-sql.git"
+  },
+  "keywords": [
+    "sql",
+    "typescript"
+  ],
+  "author": "retronouns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retronouns/literally-sql/issues"
+  },
+  "homepage": "https://github.com/retronouns/literally-sql#readme"
+}
